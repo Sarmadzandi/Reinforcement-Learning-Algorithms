@@ -3,7 +3,6 @@
 
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-Algorithms-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Table of Contents
 
@@ -48,9 +47,6 @@ To set up the files locally, follow these steps:
     ```
 
 3. **Open a notebook**:
-    Navigate to the desired notebook from the Jupyter interface and run the cells.
-
-
-![Thank You](https://media.giphy.com/media/3o7TKttVvTi4u6lD6A/giphy.gif)
+    You can just navigate to the desired notebook from the Jupyter interface and run the cells.
 
 
